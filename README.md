@@ -1,7 +1,7 @@
 #Beat Step X
-[Video](https://www.youtube.com/watch?v=s6vm0xBc-rA)
 ### About the Project
-
+[Video](https://www.youtube.com/watch?v=s6vm0xBc-rA)
+[![Video](http://img.youtube.com/vi/s6vm0xBc-rA/0.jpg)](https://www.youtube.com/watch?v=s6vm0xBc-rA)
 #### Site
 The site is build as SPA(Single-page Application), this mean when you start listen to a music you can go through pages listen that music without stop(like SoundCloud), this facilitate find new musics.
 
