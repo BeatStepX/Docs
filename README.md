@@ -1,4 +1,4 @@
-#Beat Step X
+# Beat Step X
 ### About the Project
 [Video](https://www.youtube.com/watch?v=s6vm0xBc-rA)
 
