@@ -15,7 +15,7 @@ The site is build as SPA (Single-page Application), this mean when you start lis
 
 ---
 
-### [Game](Game)
+### [[Game|Game]]
 
 The game is build in JS (TypeScript compiled to JS) using WebGL,
 
