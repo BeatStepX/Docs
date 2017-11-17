@@ -29,6 +29,3 @@ Currently I'm using this Git repositories.
 - Game
 - Game Server(for multiplayer)
 - Game Map(Map system for the Campaign Mode)
-
-#### Some Considerations
-- I'm not good at english
