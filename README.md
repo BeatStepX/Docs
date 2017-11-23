@@ -5,27 +5,34 @@
 
 [YouTube Link](https://www.youtube.com/watch?v=s6vm0xBc-rA)
 
+The main concept is you can play any mode (k3, k4, k5...), with different judgments types.
+
+
 ### Server API
 A REST API to be used on the Web Site and Desktop Client.
-
----
+- [Laravel](https://laravel.com)
 
 ### Site
-The site is build as SPA (Single-page Application), this mean when you start listen to a music you can go through pages listen that music without stop (like SoundCloud), this facilitate find new musics.
+The site is built as SPA (Single-page Application), so you can go through pages listen to music without stop (like SoundCloud).
+- [Angular](https://angular.io)
 
----
 
 ### Game
+The game is built in JS (TypeScript compiled to JS) using WebGL.
+- [TypeScript](https://www.typescriptlang.org/)
+- [Phaser](https://github.com/photonstorm/phaser-ce)
 
-The game is build in JS (TypeScript compiled to JS) using WebGL,
 
----
+### Desktop Wrapper
+Using [Electron](https://electron.atom.io/) to wrap the site.
+
 
 ## How the project is separate
-Currently I'm using this Git repositories.
+Currently, I'm using Git repositories hosted on GitLab.
 - Server API
-- Frontend App (used on Web and Desktop Client)
-- ~~Desktop Wrapper for the *Game* (AKA Standalone version)~~
-- Game
-- Game Server(for multiplayer)
-- Game Map(Map system for the Campaign Mode)
+- Web App
+- Game Core
+- Game Render
+- Multiplayer Server
+- Desktop App (Standalone version)
+- Map (Map system for the Campaign Mode)
